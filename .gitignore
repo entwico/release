@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.iml
+.vscode
+.envrc
+node_modules

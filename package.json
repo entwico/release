@@ -1,0 +1,36 @@
+{
+  "name": "@entwico/release",
+  "version": "0.0.0",
+  "description": "Opinionated release tool",
+  "bin": {
+    "entwico-release": "./release.js",
+    "entwico-unrelease": "./unrelease.js"
+  },
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entwico/release.git"
+  },
+  "author": "smnbbrv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/entwico/release/issues"
+  },
+  "homepage": "https://github.com/entwico/release#readme",
+  "dependencies": {
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/npm": "^8.0.3",
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "@types/semantic-release": "^17.2.3",
+    "git-is-clean": "^3.0.1",
+    "semantic-release": "^19.0.2",
+    "ts-node": "^10.7.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
