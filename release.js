@@ -4,7 +4,7 @@ const isClean = require('git-is-clean')
 
 isClean()
   .then(clean => {
-    if (clean) {
+    if (!clean) {
       console.error('The git repository is not clean. Please commit or stash all the changes');
       process.exit(1);
     }
