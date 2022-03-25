@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/entwico/release/compare/v1.0.1...v1.0.2) (2022-03-25)
+
+
+### Bug Fixes
+
+* use git root directory as cwd for release ([6e16a2a](https://github.com/entwico/release/commit/6e16a2a0a71ff3424e1258bd686108617ec1c2df))
+
 ## [1.0.1](https://github.com/entwico/release/compare/v1.0.0...v1.0.1) (2022-03-11)
 
 
