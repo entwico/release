@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/entwico/release/compare/v1.0.2...v1.0.3) (2022-03-28)
+
+
+### Bug Fixes
+
+* fix git root path ([50b6fba](https://github.com/entwico/release/commit/50b6fba556559c94348c58179f24917f8c638db8))
+
 ## [1.0.2](https://github.com/entwico/release/compare/v1.0.1...v1.0.2) (2022-03-25)
 
 
