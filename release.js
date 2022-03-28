@@ -11,7 +11,7 @@ isClean()
       process.exit(1);
     }
 
-    const root = findGitRoot(process.cwd);
+    const root = findGitRoot(process.cwd());
 
     if (!root) {
       console.error('Could not find git root');
