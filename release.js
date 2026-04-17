@@ -37,7 +37,7 @@ isClean()
           assets: [
             "CHANGELOG.md"
           ],
-          message: "chore: generate CHANGELOG.md for release version ${nextRelease.version} [ci skip]"
+          message: "chore: generate CHANGELOG.md for release version ${nextRelease.version}"
         }
       ],
       publish: false,
