@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/entwico/release/compare/v1.0.3...v1.0.4) (2026-04-17)
+
+
+### Bug Fixes
+
+* remove ci skip ([230e1e5](https://github.com/entwico/release/commit/230e1e5a85f6de29b9c630863343363968c73ef7))
+* update deps ([2fe6f89](https://github.com/entwico/release/commit/2fe6f899c6cd31b5564054e9696a8acc2aedb59d))
+* update license, migrate to pnpm ([7d74567](https://github.com/entwico/release/commit/7d74567504c3fef7473d30c4cd35d5669a2204ad))
+
 ## [1.0.3](https://github.com/entwico/release/compare/v1.0.2...v1.0.3) (2022-03-28)
 
 
