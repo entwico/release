@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/entwico/release/compare/v1.0.4...v1.0.5) (2026-04-17)
+
+
+### Bug Fixes
+
+* switch to esm ([e348e93](https://github.com/entwico/release/commit/e348e936ce52577e74514e431fe20679c26aa1da))
+
 ## [1.0.4](https://github.com/entwico/release/compare/v1.0.3...v1.0.4) (2026-04-17)
 
 
